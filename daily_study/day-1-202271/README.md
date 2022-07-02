@@ -17,8 +17,9 @@
 
 - 安装vs code
 - 下载 Rust插件（插件工具栏搜索Rust插件）
+- 搜索rust-analyzer 插件
 - 创建Rust工作空间
-- 创建main.rs
+- 创建cargo new 项目名称后，在项目名称文件夹下运行cmd 输入code . 打开vs code可直接使用
 ```
 fn main() {
     println!("Hello, world!");
