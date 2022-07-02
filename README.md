@@ -1,10 +1,9 @@
 # 2022 Daily schedule of OS Tranining Camp
 
-- daily study：每日学习心得（笔记）
-- rust-exercise-play 写的一些rust小程序
+## 2022年开源操作系统训练营：第一阶段
 
-目前处于第一阶段，第一环节学习Rust语言
-
+- daily study：Rust每日笔记
+- rust demos： RUst练习实例
 
 ## 时间表
 
