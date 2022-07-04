@@ -43,3 +43,14 @@ use std::ops::{Range, RangeInclusive};
 Range{ start: 1, end: 5 }) 	// 不包含5
 RangeInclusive::new(1, 5)	// 包含5
 ```
+
+size_of_val("中"), "中".len(), "中".chars().count()
+3， 3， 1
+
+""	类型是&str
+''	char
+
+let _v: () = ();  // 定义函数
+assert!(size_of_val(&unit) == 0);
+let c2 = '中';
+assert_eq!(size_of_val(&c2),4); 
