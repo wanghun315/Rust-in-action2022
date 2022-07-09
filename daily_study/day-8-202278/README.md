@@ -3,6 +3,7 @@
 ### 学习进度
 
 - 今日继续学习[ 简单英语学Rust ](https://kumakichi.github.io/easy_rust_chs/Chapter_58.html)
+- 完成 简单英语学Rust 全部内容
 
 ### 知识积累
 #### 测试
