@@ -9,3 +9,5 @@
 
 - 现在终于明白，Rust的struct相当于声明了entity，然后实现的方法需要通过impl来进行的
 - 参数中 number: &String， 传入的时候需要传地址，在方法中使用可以直接使用number
+
+## ps: 最近的GitHub网络很不稳定，提交了多次
